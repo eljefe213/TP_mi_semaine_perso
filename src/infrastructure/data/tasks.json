@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "title": "Acheter du pain",
+      "description": "Aller à la boulangerie pour acheter du pain pour le dîner.",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Rendez-vous chez le médecin",
+      "description": "Consultation médicale annuelle à 15h30.",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Réunion de projet",
+      "description": "Réunion de mise au point sur le projet API à 14h00.",
+      "completed": false
+    }
+  ]
